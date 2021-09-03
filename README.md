@@ -9,6 +9,8 @@ In this example we identify the model calibration parameters of a single degree 
 
 Details on the construction of the calibration model are given in notebook file **BW-SDOF.ipynb**. The control inputs and system responses used for model calibration are generated in the file **Generate_Input.ipynb**. Identification of the system is performed for the system under the conditions &alpha; = 0, denoting a fully linear system, and &alpha; = 1, denoting a nonlinear Bouc-Wen system. The implementation of the approximate calibration algorithms is split between these two cases, and are available in the folders **Linear** and **Bouc-Wen** in separate notebooks according to the algorithm used (EKF, UKF, SMC2, and ADVI). Results from these algorithms can be visualized using the file **Visualize_Results.ipynb**.  
 
+**Note: This example is currently being prepared. The final version of all files will be posted shortly**
+
 
 # Running this Example
 This example was developed in Python 3.7 and implemented using a variety of probabilistic programming packages, which are listed in the Reference section. Running this example requires the installation of these packages, as well as numpy and matplotlib. The environment used to develop this example has been provided in the file **BayesianID.yml**
