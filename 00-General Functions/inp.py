@@ -1,5 +1,13 @@
-## This file holds all the simulated input functions that we'll be putting into 
-## the models. 
+"""
+File Name: inp.py
+Purpose: This file contains a series of functions used to generate input 
+	  excitations for dynamical systems models. A plotting function is 
+	  also included that has the option to be called from within each of 
+	  the input generation functions. 
+Developed by: Alana Lund (Purdue University) 
+Last Updated: 13 Sept. 2021 
+License: AGPL-3.0
+""" 
 
 import numpy as np
 import scipy.signal as sigproc
