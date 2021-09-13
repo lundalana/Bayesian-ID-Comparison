@@ -27,7 +27,7 @@ This example was developed in Python 3.7 and implemented using a variety of prob
 
 
 # Citing this Work
-Lund, A., I.Bilionis, S.J. Dyke. (2021) "A Comparative Bayesian Model Calibration Example for Nonlinear System Identification." 
+Lund, A., I. Bilionis, S.J. Dyke. (2021) "A Comparative Bayesian Model Calibration Example for Nonlinear System Identification." 
 
 # License
 
