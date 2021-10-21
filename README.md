@@ -19,7 +19,7 @@ This example was developed in Python 3.7 and implemented using a variety of prob
 # References
 <sup>1</sup> R. Labbe, FilterPy v1.4.5, (2021). [https://github.com/rlabbe/filterpy](https://github.com/rlabbe/filterpy).
 
-<sup>2</sup> N. Chopin, particles v0.1, (2021). [https://github.com/nchopin/particles](https://github.com/rlabbe/filterpy).
+<sup>2</sup> N. Chopin, particles v0.1, (2021). [https://github.com/nchopin/particles](https://github.com/nchopin/particles).
 
 <sup>3</sup>A. Kucukelbir, D. Tran, R. Ranganath, A. Gelman, D.M. Blei, Automatic differentiation variational inference, J. Mach. Learn. Res. 18 (2017) 430–474.
 
